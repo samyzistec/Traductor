@@ -1,0 +1,27 @@
+=============================================
+INFORMACIÓN DE HARDWARE (PowerShell)
+=============================================
+==== CPU ====
+
+Name                                      NumberOfCores NumberOfLogicalProcesso
+                                                                             rs
+----                                      ------------- -----------------------
+Intel(R) Xeon(R) CPU E3-1270 v5 @ 3.60GHz             4                       8
+
+
+
+==== GPU(s) ====
+
+Name              DriverVersion    VRAM(GB)
+----              -------------    --------
+AMD Radeon R7 450 27.20.11044.3005        4
+
+
+
+==== MEMORIA RAM ====
+31.91 GB total  13.14 GB usada  18.77 GB libre
+
+Manufacturer PartNumber           Speed Capacity(GB)
+------------ ----------           ----- ------------
+802C0000802C 16ATF2G64AZ-2G6E1     2667           16
+80CE000080CE M378A2K43DB1-CTD      2667           16

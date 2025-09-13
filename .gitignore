@@ -1,0 +1,29 @@
+# Ignorar carpetas de resultados y temporales
+checkpoints/
+logs/
+salida/
+spm/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos comprimidos o binarios grandes
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Ignorar notebooks con outputs pesados (opcional)
+*.ipynb_checkpoints

@@ -1,0 +1,12 @@
+
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+python_files = "test_*.py"
+testpaths = ["tests"]
+filterwarnings = [
+  "ignore::DeprecationWarning",
+  "ignore::UserWarning",
+]
